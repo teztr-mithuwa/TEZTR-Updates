@@ -1,2 +1,2 @@
-Version: 2.0.0
-https://www.dropbox.com/scl/fi/dwg7cri2dtheoe4rp2t99/TEZTR_v2.0.0.exe?rlkey=j19dfsoklvi3hyjoqlyvo2hn5&st=7vmcfmgb&dl=0
+Version:2.0.0
+Link:https://www.dropbox.com/scl/fi/dwg7cri2dtheoe4rp2t99/TEZTR_v2.0.0.exe?rlkey=j19dfsoklvi3hyjoqlyvo2hn5&st=7vmcfmgb&dl=0
